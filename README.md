@@ -12,4 +12,3 @@ In this notebook we will:
 3- define our classifier to have an output layer of 29 outputs.  
 4- train the last blocks of the network along with the classifier we defined.  
 5- test the model we trained.  # ASL-Pytorch-Project
-# ASL-Pytorch-Project
